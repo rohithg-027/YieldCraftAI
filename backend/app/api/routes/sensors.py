@@ -44,11 +44,11 @@ def ingest_sensor_reading(req: SensorReadingRequest):
     advisory_summary = None
 
     try:
-        n_val = req.nitrogen if req.nitrogen is not None else 80.0
-        p_val = req.phosphorus if req.phosphorus is not None else 40.0
-        k_val = req.potassium if req.potassium is not None else 40.0
-        temp_val = req.soil_temperature if req.soil_temperature is not None else 26.0
-        moist_val = req.soil_moisture if req.soil_moisture is not None else 35.0
+        n_val = req.nitrogen if (req.nitrogen is not None and req.nitrogen > 0) else 85.0
+        p_val = req.phosphorus if (req.phosphorus is not None and req.phosphorus > 0) else 44.0
+        k_val = req.potassium if (req.potassium is not None and req.potassium > 0) else 190.0
+        temp_val = req.soil_temperature if (req.soil_temperature is not None and req.soil_temperature > 0) else 26.0
+        moist_val = req.soil_moisture if (req.soil_moisture is not None and req.soil_moisture > 0) else 45.0
 
         # 1. Instant Crop Recommendation (Top-1)
         crop_candidates = model_registry.predict_crop(

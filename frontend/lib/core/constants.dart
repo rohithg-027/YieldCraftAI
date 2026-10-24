@@ -11,8 +11,8 @@ class AppConstants {
   static const String defaultBaseUrl = 'http://127.0.0.1:8000';
   static const String androidEmulatorBaseUrl = 'http://10.0.2.2:8000';
   static const String localLanBaseUrl = 'http://10.119.12.218:8000';
-  static const String renderCloudBaseUrl = 'https://yieldcraft-ai.onrender.com';
-
+  static const String renderCloudBaseUrl = 'https://yieldcraft-ai-backend.onrender.com';
+                                            
   static const List<String> indianStates = [
     'Andhra Pradesh', 'Arunachal Pradesh', 'Assam', 'Bihar', 'Chhattisgarh',
     'Goa', 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jharkhand', 'Karnataka',
