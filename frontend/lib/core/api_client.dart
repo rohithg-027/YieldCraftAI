@@ -43,10 +43,12 @@ class ApiClient {
 
     final candidates = <String>[
       if (savedBase != null && savedBase.isNotEmpty) savedBase,
+      AppConstants.renderCloudBaseUrl,    // Live Render Cloud Hosting
       AppConstants.defaultBaseUrl,        // 127.0.0.1:8000 (Desktop, Web, USB adb reverse)
       AppConstants.localLanBaseUrl,       // 10.119.12.218:8000 (Wi-Fi LAN)
       AppConstants.androidEmulatorBaseUrl // 10.0.2.2:8000 (Android Emulator)
     ];
+
 
     String selected = savedBase ?? AppConstants.defaultBaseUrl;
     for (final candidate in candidates) {
