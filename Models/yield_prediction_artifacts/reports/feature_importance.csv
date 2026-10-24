@@ -1,0 +1,97 @@
+Feature,Importance
+categorical__Crop_Coconut ,0.5966072304557963
+numerical__Area,0.06914862686416275
+numerical__Fertilizer,0.06492669134927417
+numerical__Pesticide,0.053058126118362116
+categorical__Season_Whole Year ,0.03352765278751312
+numerical__Annual_Rainfall,0.03113175653256242
+numerical__Crop_Year,0.020649585222376254
+categorical__State_West Bengal,0.020615653961179863
+categorical__State_Puducherry,0.015197841392199114
+categorical__Crop_Sugarcane,0.013480931030729545
+categorical__State_Tamil Nadu,0.008940797847976736
+categorical__Season_Kharif     ,0.0074583011060635595
+categorical__State_Andhra Pradesh,0.006545188339483933
+categorical__State_Telangana,0.006336102782769087
+categorical__State_Karnataka,0.005509248442438104
+categorical__Season_Rabi       ,0.004699612213115827
+categorical__State_Kerala,0.004511670417733497
+categorical__State_Assam,0.004166306464688157
+categorical__State_Chhattisgarh,0.0032440488094226455
+categorical__State_Goa,0.0027038654206981588
+categorical__Crop_Tobacco,0.00239359082598394
+categorical__Crop_Groundnut,0.001967668428777583
+categorical__Crop_Dry chillies,0.00171945023612357
+categorical__Crop_Rice,0.001641676286621184
+categorical__Crop_Potato,0.0016221462665679542
+categorical__Crop_Arecanut,0.0014818064420553808
+categorical__Crop_Cashewnut,0.001354648743691387
+categorical__Crop_Banana,0.0010999555263078032
+categorical__Crop_Maize,0.0010023765378478768
+categorical__Crop_Turmeric,0.0009052813251424857
+categorical__Crop_Coriander,0.0008096528981901785
+categorical__Crop_Cotton(lint),0.0007588139743955782
+categorical__State_Madhya Pradesh,0.0007196555989744937
+categorical__Season_Summer     ,0.00067863369484762
+categorical__Crop_Garlic,0.0006304100378123864
+categorical__State_Gujarat,0.000610655664237981
+categorical__State_Uttar Pradesh,0.0006033134148811374
+categorical__Crop_Onion,0.0005277097741836442
+categorical__State_Arunachal Pradesh,0.0005000814564332313
+categorical__State_Maharashtra,0.0004692514682570096
+categorical__Crop_Black pepper,0.0004612457179875368
+categorical__Crop_Urad,0.0004337758222390725
+categorical__Crop_Moong(Green Gram),0.00041921943556559696
+categorical__Crop_Sesamum,0.0004178960402662368
+categorical__Crop_Cardamom,0.0003721378364841608
+categorical__Season_Autumn     ,0.000326026472396834
+categorical__Crop_Tapioca,0.00028041871681993246
+categorical__Crop_Ginger,0.00027833243560966965
+categorical__Season_Winter     ,0.00023621087743206534
+categorical__Crop_Sannhamp,0.00021944170748728844
+categorical__Crop_Sunflower,0.00020565471293708967
+categorical__State_Meghalaya,0.0001885939210693836
+categorical__Crop_Gram,0.00018737716785229344
+categorical__Crop_Oilseeds total,0.00017898699607258125
+categorical__Crop_Sweet potato,0.00017661284527947931
+categorical__State_Mizoram,0.00014253447609955194
+categorical__Crop_Ragi,0.0001405341389207259
+categorical__Crop_Guar seed,0.00013995888202156747
+categorical__Crop_Wheat,0.00013476144972934606
+categorical__State_Bihar,0.0001304360063061574
+categorical__State_Odisha,0.0001292409202709973
+categorical__State_Uttarakhand,0.00011262361132857691
+categorical__Crop_Jute,8.357504198709826e-05
+categorical__State_Haryana,8.252496905006763e-05
+categorical__Crop_Jowar,7.02604529764092e-05
+categorical__Crop_Masoor,6.993679276718339e-05
+categorical__State_Himachal Pradesh,4.085846472912106e-05
+categorical__Crop_Bajra,3.9678648341605035e-05
+categorical__Crop_Other  Rabi pulses,3.912984032469312e-05
+categorical__Crop_Arhar/Tur,3.134751872072055e-05
+categorical__State_Nagaland,3.044903274812441e-05
+categorical__State_Jharkhand,2.6823402245136993e-05
+categorical__State_Manipur,2.5444603335927817e-05
+categorical__Crop_Soyabean,2.467833761114104e-05
+categorical__Crop_Niger seed,2.2944670696848492e-05
+categorical__Crop_Castor seed,2.2558628826251053e-05
+categorical__Crop_Rapeseed &Mustard,2.1222487350501766e-05
+categorical__State_Punjab,1.7514418959677134e-05
+categorical__Crop_Safflower,1.6324308050726358e-05
+categorical__Crop_Small millets,1.4673618452550326e-05
+categorical__Crop_Khesari,9.184912387287557e-06
+categorical__Crop_Barley,8.53622558063204e-06
+categorical__Crop_Mesta,7.280260460829896e-06
+categorical__Crop_Other Kharif pulses,6.309672145132536e-06
+categorical__Crop_Horse-gram,5.428579820331646e-06
+categorical__State_Delhi,4.2735248151223215e-06
+categorical__Crop_Linseed,4.225616295587749e-06
+categorical__Crop_other oilseeds,2.7451302637088636e-06
+categorical__Crop_Other Cereals,2.0378778220756543e-06
+categorical__State_Jammu and Kashmir,1.0708369614625e-06
+categorical__State_Tripura,8.107219705319663e-07
+categorical__Crop_Peas & beans (Pulses),7.262910359394876e-08
+categorical__Crop_Cowpea(Lobia),2.5841186642612047e-08
+categorical__State_Sikkim,1.0581941527757787e-08
+categorical__Crop_Moth,5.635926690595428e-09
+categorical__Crop_Other Summer Pulses,3.660911463181921e-10

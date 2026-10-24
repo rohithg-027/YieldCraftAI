@@ -1,0 +1,8 @@
+Yield Prediction Model
+==================================================
+
+Algorithm : Random Forest
+R2 Score  : 0.9516
+MAE       : 20.1892
+MSE       : 38789.9415
+RMSE      : 196.9516

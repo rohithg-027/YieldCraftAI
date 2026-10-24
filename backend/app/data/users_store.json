@@ -1,0 +1,29 @@
+{
+  "user_e4ade7254a04": {
+    "uid": "user_e4ade7254a04",
+    "full_name": "Rohithg.027",
+    "email": "rohithg.027@gmail.com",
+    "preferred_language": "English",
+    "onboarding_completed": true,
+    "created_at": "2026-10-12T00:24:11.098150Z",
+    "updated_at": "2026-10-12T00:24:11.098150Z"
+  },
+  "user_34ba5be9f0c4": {
+    "uid": "user_34ba5be9f0c4",
+    "full_name": "Rohith",
+    "email": "rohithg.027@gmail.com",
+    "preferred_language": "English",
+    "onboarding_completed": true,
+    "created_at": "2026-10-12T00:20:00.000000Z",
+    "updated_at": "2026-10-12T00:20:00.000000Z"
+  },
+  "user_0f7f8f0a25ee": {
+    "uid": "user_0f7f8f0a25ee",
+    "full_name": "Lavanya",
+    "email": "lavanya23cs111@drttit.edu.in",
+    "preferred_language": "English",
+    "onboarding_completed": false,
+    "created_at": "2026-10-22T07:04:33.905132Z",
+    "updated_at": "2026-10-22T07:04:33.905132Z"
+  }
+}
