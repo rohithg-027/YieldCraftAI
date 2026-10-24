@@ -33,6 +33,7 @@ class WeatherModel {
   final double windSpeedKmh;
   final String weatherCondition;
   final bool isDay;
+  final List<DailyForecastModel> forecast;
   final double annualRainfallMm;
   final String source;
   final String retrievedAt;
